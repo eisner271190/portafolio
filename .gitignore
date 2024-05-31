@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/Portafolio/.vs/Portafolio
+/Portafolio/bin/Debug/net8.0
+/Portafolio/obj
+/Portafolio/Properties
+/Portafolio/Portafolio.csproj.user
